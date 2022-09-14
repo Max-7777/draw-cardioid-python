@@ -1,0 +1,10 @@
+# draw-cardioid-python
+Draws a cardioid 
+(Install pygame according to requirments.txt)
+
+Method:
+1. Calculate evenly spaced points along the circumference of circle (maybe 20)
+2. Draw lines connecting point number i with point number i*2 (1-2,2-4,3-6,4-8...)
+3. Cardioid appears!!
+
+https://divisbyzero.com/2018/04/02/i-heart-cardioids/
