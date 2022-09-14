@@ -1,6 +1,6 @@
 # draw-cardioid-python
 Draws a cardioid 
-(Install pygame according to requirments.txt)
+(Install pygame according to requirements.txt) ("pip install -r requirements.txt" command in console probably)
 
 Method:
 1. Calculate evenly spaced points along the circumference of circle (maybe 20)
