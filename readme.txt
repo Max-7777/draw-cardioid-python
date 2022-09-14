@@ -8,3 +8,4 @@ Method:
 3. Cardioid appears!!
 
 https://divisbyzero.com/2018/04/02/i-heart-cardioids/
+https://www.youtube.com/watch?v=fH_thejHUY4
